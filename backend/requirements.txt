@@ -1,0 +1,10 @@
+
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic-settings
+httpx
+beautifulsoup4
+supabase
+google-genai
+python-dateutil
